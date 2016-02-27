@@ -1,0 +1,26 @@
+[11:48:02] [Server thread/INFO]: Starting minecraft server version 1.8.9
+[11:48:02] [Server thread/INFO]: Loading properties
+[11:48:02] [Server thread/INFO]: Default game type: SURVIVAL
+[11:48:02] [Server thread/INFO]: Generating keypair
+[11:48:02] [Server thread/INFO]: Starting Minecraft server on *:25565
+[11:48:02] [Server thread/INFO]: Using default channel type
+[11:48:03] [Server thread/INFO]: Preparing level "world"
+[11:48:03] [Server thread/INFO]: Preparing start region for level 0
+[11:48:04] [Server thread/INFO]: Preparing spawn area: 37%
+[11:48:05] [Server thread/INFO]: Done (1.722s)! For help, type "help" or "?"
+[12:06:52] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2005ms behind, skipping 40 tick(s)
+[12:07:37] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2039ms behind, skipping 40 tick(s)
+[12:08:24] [User Authenticator #1/INFO]: UUID of player MONEY_MAN_MIR is 21b09912-89ac-4eec-a817-5af054f4c058
+[12:08:24] [Server thread/INFO]: MONEY_MAN_MIR[/127.0.0.1:56273] logged in with entity id 343 at (-228.3958008885084, 97.97718588655358, 214.88214580521492)
+[12:08:24] [Server thread/INFO]: MONEY_MAN_MIR joined the game
+[12:08:57] [User Authenticator #2/INFO]: UUID of player HvySlpr is ab24d355-9d46-43f3-8208-993b940025b3
+[12:08:58] [Server thread/INFO]: HvySlpr[/10.0.0.3:53134] logged in with entity id 1841 at (-253.5, 70.0, 186.5)
+[12:08:58] [Server thread/INFO]: HvySlpr joined the game
+[12:09:55] [Server thread/INFO]: HvySlpr was shot by Skeleton
+[12:10:20] [Server thread/INFO]: HvySlpr was slain by MONEY_MAN_MIR
+[12:10:58] [Server thread/INFO]: HvySlpr has just earned the achievement [Taking Inventory]
+[12:12:38] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 38758ms behind, skipping 775 tick(s)
+[12:13:38] [Server Watchdog/FATAL]: A single server tick took 60.00 seconds (should be max 0.05)
+[12:13:38] [Server Watchdog/FATAL]: Considering it to be crashed, server will forcibly shutdown.
+[12:13:47] [Server Watchdog/ERROR]: This crash report has been saved to: /Users/Guest/Desktop/dont touch/./crash-reports/crash-2016-02-20_12.13.47-server.txt
+[12:13:48] [Server Shutdown Thread/INFO]: Stopping server

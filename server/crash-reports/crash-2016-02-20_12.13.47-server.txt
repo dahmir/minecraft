@@ -1,0 +1,552 @@
+---- Minecraft Crash Report ----
+// This doesn't make any sense!
+
+Time: 2/20/16 12:13 PM
+Description: Watching Server
+
+java.lang.Error
+	at agl.g(SourceFile:191)
+	at agl.a(SourceFile:145)
+	at agl.a(SourceFile:147)
+	at agl.a(SourceFile:147)
+	at agl.a(SourceFile:147)
+	at agl.f(SourceFile:171)
+	at agl.b(SourceFile:107)
+	at le.a(SourceFile:433)
+	at le.a(SourceFile:419)
+	at agl.c(SourceFile:224)
+	at amy.a(SourceFile:551)
+	at adm.a(SourceFile:291)
+	at ajw.f(SourceFile:31)
+	at ajw.a(SourceFile:25)
+	at adm.d(SourceFile:428)
+	at adm.c(SourceFile:392)
+	at adm.b(SourceFile:363)
+	at adm.a(SourceFile:307)
+	at agl.a(SourceFile:130)
+	at agl.b(SourceFile:116)
+	at le.a(SourceFile:433)
+	at le.a(SourceFile:419)
+	at agl.c(SourceFile:224)
+	at amy.a(SourceFile:551)
+	at adm.a(SourceFile:291)
+	at agl.a(SourceFile:130)
+	at agl.b(SourceFile:104)
+	at le.a(SourceFile:433)
+	at le.a(SourceFile:419)
+	at agl.c(SourceFile:224)
+	at amy.a(SourceFile:551)
+	at adm.a(SourceFile:291)
+	at agl.a(SourceFile:130)
+	at agl.b(SourceFile:116)
+	at le.a(SourceFile:433)
+	at le.a(SourceFile:419)
+	at agl.c(SourceFile:224)
+	at amy.a(SourceFile:551)
+	at adm.a(SourceFile:291)
+	at agl.a(SourceFile:130)
+	at agl.b(SourceFile:116)
+	at le.a(SourceFile:433)
+	at le.a(SourceFile:419)
+	at agl.c(SourceFile:224)
+	at amy.a(SourceFile:551)
+	at adm.a(SourceFile:291)
+	at agl.a(SourceFile:130)
+	at agl.b(SourceFile:116)
+	at le.a(SourceFile:433)
+	at le.a(SourceFile:419)
+	at agl.c(SourceFile:224)
+	at amy.a(SourceFile:551)
+	at adm.a(SourceFile:291)
+	at agl.a(SourceFile:130)
+	at agl.b(SourceFile:116)
+	at le.a(SourceFile:433)
+	at le.a(SourceFile:419)
+	at agl.c(SourceFile:224)
+	at amy.a(SourceFile:551)
+	at adm.a(SourceFile:291)
+	at agl.a(SourceFile:130)
+	at agl.b(SourceFile:116)
+	at le.a(SourceFile:433)
+	at le.a(SourceFile:419)
+	at agl.c(SourceFile:224)
+	at amy.a(SourceFile:551)
+	at adm.a(SourceFile:291)
+	at agl.a(SourceFile:130)
+	at agl.b(SourceFile:116)
+	at le.a(SourceFile:433)
+	at le.a(SourceFile:419)
+	at agl.c(SourceFile:224)
+	at amy.a(SourceFile:551)
+	at adm.a(SourceFile:291)
+	at agl.a(SourceFile:130)
+	at agl.b(SourceFile:104)
+	at le.a(SourceFile:433)
+	at le.a(SourceFile:419)
+	at agl.c(SourceFile:224)
+	at amy.a(SourceFile:551)
+	at adm.a(SourceFile:291)
+	at agl.a(SourceFile:130)
+	at agl.b(SourceFile:116)
+	at le.a(SourceFile:433)
+	at le.a(SourceFile:419)
+	at agl.c(SourceFile:224)
+	at amy.a(SourceFile:551)
+	at adm.a(SourceFile:291)
+	at agl.a(SourceFile:130)
+	at agl.b(SourceFile:116)
+	at le.a(SourceFile:433)
+	at le.a(SourceFile:419)
+	at agl.c(SourceFile:224)
+	at amy.a(SourceFile:551)
+	at adm.a(SourceFile:291)
+	at agl.a(SourceFile:130)
+	at agl.b(SourceFile:116)
+	at le.a(SourceFile:433)
+	at le.a(SourceFile:419)
+	at agl.c(SourceFile:224)
+	at amy.a(SourceFile:551)
+	at adm.a(SourceFile:291)
+	at agl.a(SourceFile:130)
+	at agl.b(SourceFile:116)
+	at le.a(SourceFile:433)
+	at le.a(SourceFile:419)
+	at agl.c(SourceFile:224)
+	at amy.a(SourceFile:551)
+	at adm.a(SourceFile:291)
+	at agl.a(SourceFile:130)
+	at agl.b(SourceFile:116)
+	at le.a(SourceFile:433)
+	at le.a(SourceFile:419)
+	at agl.c(SourceFile:224)
+	at amy.a(SourceFile:551)
+	at adm.a(SourceFile:291)
+	at agl.a(SourceFile:130)
+	at agl.b(SourceFile:116)
+	at le.a(SourceFile:433)
+	at le.a(SourceFile:419)
+	at agl.c(SourceFile:224)
+	at amy.a(SourceFile:551)
+	at adm.a(SourceFile:291)
+	at agl.a(SourceFile:130)
+	at agl.b(SourceFile:104)
+	at le.a(SourceFile:433)
+	at le.a(SourceFile:419)
+	at agl.c(SourceFile:224)
+	at amy.a(SourceFile:551)
+	at adm.a(SourceFile:291)
+	at agl.a(SourceFile:130)
+	at agl.b(SourceFile:116)
+	at le.a(SourceFile:433)
+	at le.a(SourceFile:419)
+	at agl.c(SourceFile:224)
+	at amy.a(SourceFile:551)
+	at adm.a(SourceFile:291)
+	at agl.a(SourceFile:130)
+	at agl.b(SourceFile:116)
+	at adm.a(SourceFile:1987)
+	at apr.b(SourceFile:61)
+	at aeb.a(SourceFile:283)
+	at aeb.a(SourceFile:49)
+	at ady.a(SourceFile:388)
+	at aee.a(SourceFile:47)
+	at aoa.a(SourceFile:473)
+	at ld.a(SourceFile:174)
+	at amy.a(SourceFile:857)
+	at ld.c(SourceFile:104)
+	at lc$a.<init>(SourceFile:39)
+	at lc.a(SourceFile:231)
+	at lc.d(SourceFile:370)
+	at lx.d(SourceFile:286)
+	at lm.a(SourceFile:384)
+	at ip.a(SourceFile:126)
+	at ip$a.a(SourceFile:57)
+	at fh$1.run(SourceFile:13)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at g.a(SourceFile:44)
+	at net.minecraft.server.MinecraftServer.B(SourceFile:579)
+	at ko.B(SourceFile:299)
+	at net.minecraft.server.MinecraftServer.A(SourceFile:535)
+	at net.minecraft.server.MinecraftServer.run(SourceFile:451)
+	at java.lang.Thread.run(Thread.java:745)
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- Head --
+Stacktrace:
+	at agl.g(SourceFile:191)
+	at agl.a(SourceFile:145)
+	at agl.a(SourceFile:147)
+	at agl.a(SourceFile:147)
+	at agl.a(SourceFile:147)
+	at agl.f(SourceFile:171)
+	at agl.b(SourceFile:107)
+	at le.a(SourceFile:433)
+	at le.a(SourceFile:419)
+	at agl.c(SourceFile:224)
+	at amy.a(SourceFile:551)
+	at adm.a(SourceFile:291)
+	at ajw.f(SourceFile:31)
+	at ajw.a(SourceFile:25)
+	at adm.d(SourceFile:428)
+	at adm.c(SourceFile:392)
+	at adm.b(SourceFile:363)
+	at adm.a(SourceFile:307)
+	at agl.a(SourceFile:130)
+	at agl.b(SourceFile:116)
+	at le.a(SourceFile:433)
+	at le.a(SourceFile:419)
+	at agl.c(SourceFile:224)
+	at amy.a(SourceFile:551)
+	at adm.a(SourceFile:291)
+	at agl.a(SourceFile:130)
+	at agl.b(SourceFile:104)
+	at le.a(SourceFile:433)
+	at le.a(SourceFile:419)
+	at agl.c(SourceFile:224)
+	at amy.a(SourceFile:551)
+	at adm.a(SourceFile:291)
+	at agl.a(SourceFile:130)
+	at agl.b(SourceFile:116)
+	at le.a(SourceFile:433)
+	at le.a(SourceFile:419)
+	at agl.c(SourceFile:224)
+	at amy.a(SourceFile:551)
+	at adm.a(SourceFile:291)
+	at agl.a(SourceFile:130)
+	at agl.b(SourceFile:116)
+	at le.a(SourceFile:433)
+	at le.a(SourceFile:419)
+	at agl.c(SourceFile:224)
+	at amy.a(SourceFile:551)
+	at adm.a(SourceFile:291)
+	at agl.a(SourceFile:130)
+	at agl.b(SourceFile:116)
+	at le.a(SourceFile:433)
+	at le.a(SourceFile:419)
+	at agl.c(SourceFile:224)
+	at amy.a(SourceFile:551)
+	at adm.a(SourceFile:291)
+	at agl.a(SourceFile:130)
+	at agl.b(SourceFile:116)
+	at le.a(SourceFile:433)
+	at le.a(SourceFile:419)
+	at agl.c(SourceFile:224)
+	at amy.a(SourceFile:551)
+	at adm.a(SourceFile:291)
+	at agl.a(SourceFile:130)
+	at agl.b(SourceFile:116)
+	at le.a(SourceFile:433)
+	at le.a(SourceFile:419)
+	at agl.c(SourceFile:224)
+	at amy.a(SourceFile:551)
+	at adm.a(SourceFile:291)
+	at agl.a(SourceFile:130)
+	at agl.b(SourceFile:116)
+	at le.a(SourceFile:433)
+	at le.a(SourceFile:419)
+	at agl.c(SourceFile:224)
+	at amy.a(SourceFile:551)
+	at adm.a(SourceFile:291)
+	at agl.a(SourceFile:130)
+	at agl.b(SourceFile:104)
+	at le.a(SourceFile:433)
+	at le.a(SourceFile:419)
+	at agl.c(SourceFile:224)
+	at amy.a(SourceFile:551)
+	at adm.a(SourceFile:291)
+	at agl.a(SourceFile:130)
+	at agl.b(SourceFile:116)
+	at le.a(SourceFile:433)
+	at le.a(SourceFile:419)
+	at agl.c(SourceFile:224)
+	at amy.a(SourceFile:551)
+	at adm.a(SourceFile:291)
+	at agl.a(SourceFile:130)
+	at agl.b(SourceFile:116)
+	at le.a(SourceFile:433)
+	at le.a(SourceFile:419)
+	at agl.c(SourceFile:224)
+	at amy.a(SourceFile:551)
+	at adm.a(SourceFile:291)
+	at agl.a(SourceFile:130)
+	at agl.b(SourceFile:116)
+	at le.a(SourceFile:433)
+	at le.a(SourceFile:419)
+	at agl.c(SourceFile:224)
+	at amy.a(SourceFile:551)
+	at adm.a(SourceFile:291)
+	at agl.a(SourceFile:130)
+	at agl.b(SourceFile:116)
+	at le.a(SourceFile:433)
+	at le.a(SourceFile:419)
+	at agl.c(SourceFile:224)
+	at amy.a(SourceFile:551)
+	at adm.a(SourceFile:291)
+	at agl.a(SourceFile:130)
+	at agl.b(SourceFile:116)
+	at le.a(SourceFile:433)
+	at le.a(SourceFile:419)
+	at agl.c(SourceFile:224)
+	at amy.a(SourceFile:551)
+	at adm.a(SourceFile:291)
+	at agl.a(SourceFile:130)
+	at agl.b(SourceFile:116)
+	at le.a(SourceFile:433)
+	at le.a(SourceFile:419)
+	at agl.c(SourceFile:224)
+	at amy.a(SourceFile:551)
+	at adm.a(SourceFile:291)
+	at agl.a(SourceFile:130)
+	at agl.b(SourceFile:104)
+	at le.a(SourceFile:433)
+	at le.a(SourceFile:419)
+	at agl.c(SourceFile:224)
+	at amy.a(SourceFile:551)
+	at adm.a(SourceFile:291)
+	at agl.a(SourceFile:130)
+	at agl.b(SourceFile:116)
+	at le.a(SourceFile:433)
+	at le.a(SourceFile:419)
+	at agl.c(SourceFile:224)
+	at amy.a(SourceFile:551)
+	at adm.a(SourceFile:291)
+	at agl.a(SourceFile:130)
+	at agl.b(SourceFile:116)
+	at adm.a(SourceFile:1987)
+	at apr.b(SourceFile:61)
+	at aeb.a(SourceFile:283)
+	at aeb.a(SourceFile:49)
+	at ady.a(SourceFile:388)
+	at aee.a(SourceFile:47)
+	at aoa.a(SourceFile:473)
+	at ld.a(SourceFile:174)
+	at amy.a(SourceFile:857)
+	at ld.c(SourceFile:104)
+	at lc$a.<init>(SourceFile:39)
+	at lc.a(SourceFile:231)
+	at lc.d(SourceFile:370)
+	at lx.d(SourceFile:286)
+	at lm.a(SourceFile:384)
+	at ip.a(SourceFile:126)
+	at ip$a.a(SourceFile:57)
+	at fh$1.run(SourceFile:13)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at g.a(SourceFile:44)
+	at net.minecraft.server.MinecraftServer.B(SourceFile:579)
+	at ko.B(SourceFile:299)
+	at net.minecraft.server.MinecraftServer.A(SourceFile:535)
+
+-- Thread Dump --
+Details:
+	Threads: "Netty Server IO #7" Id=26 BLOCKED on java.util.ArrayDeque@31843e77 owned by "Server thread" Id=13
+	at net.minecraft.server.MinecraftServer.a(SourceFile:1274)
+	-  blocked on java.util.ArrayDeque@31843e77
+	at net.minecraft.server.MinecraftServer.a(SourceFile:1291)
+	at le.a(SourceFile:975)
+	at fh.a(SourceFile:10)
+	at lm.a(SourceFile:994)
+	at ih.a(SourceFile:52)
+	at ih.a(SourceFile:9)
+	at ek.a(SourceFile:125)
+	...
+
+
+"Netty Server IO #6" Id=25 RUNNABLE
+	at sun.nio.ch.KQueueArrayWrapper.kevent0(Native Method)
+	at sun.nio.ch.KQueueArrayWrapper.poll(KQueueArrayWrapper.java:198)
+	at sun.nio.ch.KQueueSelectorImpl.doSelect(KQueueSelectorImpl.java:103)
+	at sun.nio.ch.SelectorImpl.lockAndDoSelect(SelectorImpl.java:86)
+	-  locked io.netty.channel.nio.SelectedSelectionKeySet@3f43d637
+	-  locked java.util.Collections$UnmodifiableSet@3b7c5507
+	-  locked sun.nio.ch.KQueueSelectorImpl@7e7edc0c
+	at sun.nio.ch.SelectorImpl.select(SelectorImpl.java:97)
+	at io.netty.channel.nio.NioEventLoop.select(NioEventLoop.java:622)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:310)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$2.run(SingleThreadEventExecutor.java:116)
+	...
+
+
+"Netty Server IO #5" Id=24 RUNNABLE
+	at sun.nio.ch.KQueueArrayWrapper.kevent0(Native Method)
+	at sun.nio.ch.KQueueArrayWrapper.poll(KQueueArrayWrapper.java:198)
+	at sun.nio.ch.KQueueSelectorImpl.doSelect(KQueueSelectorImpl.java:103)
+	at sun.nio.ch.SelectorImpl.lockAndDoSelect(SelectorImpl.java:86)
+	-  locked io.netty.channel.nio.SelectedSelectionKeySet@6e992232
+	-  locked java.util.Collections$UnmodifiableSet@4f4aa3b8
+	-  locked sun.nio.ch.KQueueSelectorImpl@1647033b
+	at sun.nio.ch.SelectorImpl.select(SelectorImpl.java:97)
+	at io.netty.channel.nio.NioEventLoop.select(NioEventLoop.java:622)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:310)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$2.run(SingleThreadEventExecutor.java:116)
+	...
+
+
+"Netty Server IO #4" Id=23 RUNNABLE
+	at sun.nio.ch.KQueueArrayWrapper.kevent0(Native Method)
+	at sun.nio.ch.KQueueArrayWrapper.poll(KQueueArrayWrapper.java:198)
+	at sun.nio.ch.KQueueSelectorImpl.doSelect(KQueueSelectorImpl.java:103)
+	at sun.nio.ch.SelectorImpl.lockAndDoSelect(SelectorImpl.java:86)
+	-  locked io.netty.channel.nio.SelectedSelectionKeySet@1e512343
+	-  locked java.util.Collections$UnmodifiableSet@39fe0a09
+	-  locked sun.nio.ch.KQueueSelectorImpl@233329ed
+	at sun.nio.ch.SelectorImpl.select(SelectorImpl.java:97)
+	at io.netty.channel.nio.NioEventLoop.select(NioEventLoop.java:622)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:310)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$2.run(SingleThreadEventExecutor.java:116)
+	...
+
+
+"Netty Server IO #3" Id=22 RUNNABLE
+	at sun.nio.ch.KQueueArrayWrapper.kevent0(Native Method)
+	at sun.nio.ch.KQueueArrayWrapper.poll(KQueueArrayWrapper.java:198)
+	at sun.nio.ch.KQueueSelectorImpl.doSelect(KQueueSelectorImpl.java:103)
+	at sun.nio.ch.SelectorImpl.lockAndDoSelect(SelectorImpl.java:86)
+	-  locked io.netty.channel.nio.SelectedSelectionKeySet@d43a86b
+	-  locked java.util.Collections$UnmodifiableSet@1a1fd9bb
+	-  locked sun.nio.ch.KQueueSelectorImpl@53f836b3
+	at sun.nio.ch.SelectorImpl.select(SelectorImpl.java:97)
+	at io.netty.channel.nio.NioEventLoop.select(NioEventLoop.java:622)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:310)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$2.run(SingleThreadEventExecutor.java:116)
+	...
+
+
+"Netty Server IO #2" Id=21 RUNNABLE
+	at sun.nio.ch.KQueueArrayWrapper.kevent0(Native Method)
+	at sun.nio.ch.KQueueArrayWrapper.poll(KQueueArrayWrapper.java:198)
+	at sun.nio.ch.KQueueSelectorImpl.doSelect(KQueueSelectorImpl.java:103)
+	at sun.nio.ch.SelectorImpl.lockAndDoSelect(SelectorImpl.java:86)
+	-  locked io.netty.channel.nio.SelectedSelectionKeySet@693e0160
+	-  locked java.util.Collections$UnmodifiableSet@792eecdc
+	-  locked sun.nio.ch.KQueueSelectorImpl@1d182043
+	at sun.nio.ch.SelectorImpl.select(SelectorImpl.java:97)
+	at io.netty.channel.nio.NioEventLoop.select(NioEventLoop.java:622)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:310)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$2.run(SingleThreadEventExecutor.java:116)
+	...
+
+
+"File IO Thread" Id=30 TIMED_WAITING
+	at java.lang.Thread.sleep(Native Method)
+	at auc.c(SourceFile:51)
+	at auc.run(SourceFile:30)
+	at java.lang.Thread.run(Thread.java:745)
+
+
+"Netty Server IO #1" Id=20 RUNNABLE
+	at sun.nio.ch.KQueueArrayWrapper.kevent0(Native Method)
+	at sun.nio.ch.KQueueArrayWrapper.poll(KQueueArrayWrapper.java:198)
+	at sun.nio.ch.KQueueSelectorImpl.doSelect(KQueueSelectorImpl.java:103)
+	at sun.nio.ch.SelectorImpl.lockAndDoSelect(SelectorImpl.java:86)
+	-  locked io.netty.channel.nio.SelectedSelectionKeySet@fc7c0fd
+	-  locked java.util.Collections$UnmodifiableSet@16ebe564
+	-  locked sun.nio.ch.KQueueSelectorImpl@182db369
+	at sun.nio.ch.SelectorImpl.select(SelectorImpl.java:97)
+	at io.netty.channel.nio.NioEventLoop.select(NioEventLoop.java:622)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:310)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$2.run(SingleThreadEventExecutor.java:116)
+	...
+
+
+"Server Watchdog" Id=28 RUNNABLE
+	at sun.management.ThreadImpl.dumpThreads0(Native Method)
+	at sun.management.ThreadImpl.dumpAllThreads(ThreadImpl.java:446)
+	at kp.run(SourceFile:43)
+	at java.lang.Thread.run(Thread.java:745)
+
+
+"Netty Server IO #0" Id=19 BLOCKED on java.util.ArrayDeque@31843e77 owned by "Server thread" Id=13
+	at net.minecraft.server.MinecraftServer.a(SourceFile:1274)
+	-  blocked on java.util.ArrayDeque@31843e77
+	at net.minecraft.server.MinecraftServer.a(SourceFile:1291)
+	at le.a(SourceFile:975)
+	at fh.a(SourceFile:10)
+	at lm.a(SourceFile:201)
+	at ip.a(SourceFile:126)
+	at ip$a.a(SourceFile:57)
+	at ek.a(SourceFile:125)
+	...
+
+
+"Server console handler" Id=15 RUNNABLE (in native)
+	at java.io.FileInputStream.readBytes(Native Method)
+	at java.io.FileInputStream.read(FileInputStream.java:255)
+	at java.io.BufferedInputStream.read1(BufferedInputStream.java:284)
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:345)
+	-  locked java.io.BufferedInputStream@44eb9217
+	at sun.nio.cs.StreamDecoder.readBytes(StreamDecoder.java:284)
+	at sun.nio.cs.StreamDecoder.implRead(StreamDecoder.java:326)
+	at sun.nio.cs.StreamDecoder.read(StreamDecoder.java:178)
+	-  locked java.io.InputStreamReader@759a625f
+	at java.io.InputStreamReader.read(InputStreamReader.java:184)
+	...
+
+
+"DestroyJavaVM" Id=16 RUNNABLE
+
+
+"Server thread" Id=13 RUNNABLE
+	at agl.g(SourceFile:191)
+	at agl.a(SourceFile:145)
+	at agl.a(SourceFile:147)
+	at agl.a(SourceFile:147)
+	at agl.a(SourceFile:147)
+	at agl.f(SourceFile:171)
+	at agl.b(SourceFile:107)
+	at le.a(SourceFile:433)
+	...
+
+
+"Server Infinisleeper" Id=12 TIMED_WAITING
+	at java.lang.Thread.sleep(Native Method)
+	at ko$1.run(SourceFile:65)
+
+
+"Snooper Timer" Id=11 TIMED_WAITING on java.util.TaskQueue@3c93694d
+	at java.lang.Object.wait(Native Method)
+	-  waiting on java.util.TaskQueue@3c93694d
+	at java.util.TimerThread.mainLoop(Timer.java:552)
+	at java.util.TimerThread.run(Timer.java:505)
+
+
+"Signal Dispatcher" Id=4 RUNNABLE
+
+
+"Finalizer" Id=3 WAITING on java.lang.ref.ReferenceQueue$Lock@4950334d
+	at java.lang.Object.wait(Native Method)
+	-  waiting on java.lang.ref.ReferenceQueue$Lock@4950334d
+	at java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:143)
+	at java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:164)
+	at java.lang.ref.Finalizer$FinalizerThread.run(Finalizer.java:209)
+
+
+"Reference Handler" Id=2 WAITING on java.lang.ref.Reference$Lock@51b37b5a
+	at java.lang.Object.wait(Native Method)
+	-  waiting on java.lang.ref.Reference$Lock@51b37b5a
+	at java.lang.Object.wait(Object.java:502)
+	at java.lang.ref.Reference$ReferenceHandler.run(Reference.java:157)
+
+
+
+Stacktrace:
+	at kp.run(SourceFile:59)
+	at java.lang.Thread.run(Thread.java:745)
+
+-- System Details --
+Details:
+	Minecraft Version: 1.8.9
+	Operating System: Mac OS X (x86_64) version 10.11.3
+	Java Version: 1.8.0_73, Oracle Corporation
+	Java VM Version: Java HotSpot(TM) 64-Bit Server VM (mixed mode), Oracle Corporation
+	Memory: 687801152 bytes (655 MB) / 993001472 bytes (947 MB) up to 993001472 bytes (947 MB)
+	JVM Flags: 2 total; -Xms1G -Xmx1G
+	IntCache: cache: 0, tcache: 0, allocated: 13, tallocated: 95
+	Profiler Position: N/A (disabled)
+	Player Count: 2 / 20; [lf['MONEY_MAN_MIR'/343, l='world', x=-245.16, y=66.00, z=145.36], lf['HvySlpr'/1841, l='world', x=-226.53, y=73.42, z=15.52]]
+	Is Modded: Unknown (can't tell)
+	Type: Dedicated Server (map_server.txt)
