@@ -4,5 +4,11 @@
     "name": "MONEY_MAN_MIR",
     "level": 4,
     "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "ab24d355-9d46-43f3-8208-993b940025b3",
+    "name": "HvySlpr",
+    "level": 4,
+    "bypassesPlayerLimit": false
   }
 ]
